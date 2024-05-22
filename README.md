@@ -1,3 +1,6 @@
+<div align="center">
+<img width="100%" height = "400px" src="https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif" alt="cover" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Pinal Vaghasiya</h1>
 <h3 align="center">A passionate full stack developer</h3>
